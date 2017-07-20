@@ -8,7 +8,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Greetings from Spring Boot- new!";
+        return "Greetings from Spring Boot- BT20170720 16:47";
     }
 
     
